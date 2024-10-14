@@ -1,0 +1,110 @@
+Query: Ukraine conflict 2022
+Cultural Heritage of Ukraine.txt: 1
+Economic Relations Between Russia and Ukraine.txt: 0
+GlobalView.txt: 0
+HelloRussia.txt: 0
+Historical Context of Russia-Ukraine Relations.txt: 1
+NATO's Influence on Ukraine's Defense Strategy.txt: 1
+Natural Resources in Russia's Economy.txt: 1
+Putin.txt: 1
+Recent Conflicts and Regional Stability.txt: 1
+Russia's History and Modern Geopolitics.txt: 1
+Russian Culture and National Identity.txt: 0
+The Cold War's Impact on Russia-Ukraine Relations.txt: 1
+The Cultural Dynamics of Ukraine.txt: 1
+The Impact of the Conflict on Ukrainian Society.txt: 0
+The Role of Natural Resources in Russia's Economy.txt: 1
+Ukrain.txt: 1
+Ukraine's Agricultural Sector.txt: 1
+Ukraine's EU Membership Aspirations.txt: 0
+Ukraine's Pursuit of European Integration.txt: 1
+WaronRussiaandUkrain.txt: 1
+
+Query: Russian military invasion
+Cultural Heritage of Ukraine.txt: 1
+Economic Relations Between Russia and Ukraine.txt: 0
+GlobalView.txt: 1
+HelloRussia.txt: 0
+Historical Context of Russia-Ukraine Relations.txt: 0
+NATO's Influence on Ukraine's Defense Strategy.txt: 0
+Natural Resources in Russia's Economy.txt: 0
+Putin.txt: 1
+Recent Conflicts and Regional Stability.txt: 1
+Russia's History and Modern Geopolitics.txt: 1
+Russian Culture and National Identity.txt: 1
+The Cold War's Impact on Russia-Ukraine Relations.txt: 1
+The Cultural Dynamics of Ukraine.txt: 0
+The Impact of the Conflict on Ukrainian Society.txt: 0
+The Role of Natural Resources in Russia's Economy.txt: 0
+Ukrain.txt: 1
+Ukraine's Agricultural Sector.txt: 1
+Ukraine's EU Membership Aspirations.txt: 1
+Ukraine's Pursuit of European Integration.txt: 1
+WaronRussiaandUkrain.txt: 1
+
+Query: Effects of sanctions on Russia
+Cultural Heritage of Ukraine.txt: 0
+Economic Relations Between Russia and Ukraine.txt: 0
+GlobalView.txt: 0
+HelloRussia.txt: 0
+Historical Context of Russia-Ukraine Relations.txt: 1
+NATO's Influence on Ukraine's Defense Strategy.txt: 0
+Natural Resources in Russia's Economy.txt: 1
+Putin.txt: 1
+Recent Conflicts and Regional Stability.txt: 0
+Russia's History and Modern Geopolitics.txt: 1
+Russian Culture and National Identity.txt: 0
+The Cold War's Impact on Russia-Ukraine Relations.txt: 1
+The Cultural Dynamics of Ukraine.txt: 0
+The Impact of the Conflict on Ukrainian Society.txt: 1
+The Role of Natural Resources in Russia's Economy.txt: 0
+Ukrain.txt: 1
+Ukraine's Agricultural Sector.txt: 0
+Ukraine's EU Membership Aspirations.txt: 1
+Ukraine's Pursuit of European Integration.txt: 0
+WaronRussiaandUkrain.txt: 1
+
+Query: Ukraine peace talks
+Cultural Heritage of Ukraine.txt: 1
+Economic Relations Between Russia and Ukraine.txt: 1
+GlobalView.txt: 1
+HelloRussia.txt: 1
+Historical Context of Russia-Ukraine Relations.txt: 0
+NATO's Influence on Ukraine's Defense Strategy.txt: 1
+Natural Resources in Russia's Economy.txt: 1
+Putin.txt: 0
+Recent Conflicts and Regional Stability.txt: 0
+Russia's History and Modern Geopolitics.txt: 0
+Russian Culture and National Identity.txt: 0
+The Cold War's Impact on Russia-Ukraine Relations.txt: 1
+The Cultural Dynamics of Ukraine.txt: 0
+The Impact of the Conflict on Ukrainian Society.txt: 0
+The Role of Natural Resources in Russia's Economy.txt: 0
+Ukrain.txt: 0
+Ukraine's Agricultural Sector.txt: 1
+Ukraine's EU Membership Aspirations.txt: 1
+Ukraine's Pursuit of European Integration.txt: 0
+WaronRussiaandUkrain.txt: 0
+
+Query: Impact of war on global economy
+Cultural Heritage of Ukraine.txt: 1
+Economic Relations Between Russia and Ukraine.txt: 0
+GlobalView.txt: 1
+HelloRussia.txt: 0
+Historical Context of Russia-Ukraine Relations.txt: 0
+NATO's Influence on Ukraine's Defense Strategy.txt: 1
+Natural Resources in Russia's Economy.txt: 1
+Putin.txt: 0
+Recent Conflicts and Regional Stability.txt: 1
+Russia's History and Modern Geopolitics.txt: 1
+Russian Culture and National Identity.txt: 0
+The Cold War's Impact on Russia-Ukraine Relations.txt: 0
+The Cultural Dynamics of Ukraine.txt: 1
+The Impact of the Conflict on Ukrainian Society.txt: 0
+The Role of Natural Resources in Russia's Economy.txt: 0
+Ukrain.txt: 1
+Ukraine's Agricultural Sector.txt: 1
+Ukraine's EU Membership Aspirations.txt: 1
+Ukraine's Pursuit of European Integration.txt: 0
+WaronRussiaandUkrain.txt: 1
+
